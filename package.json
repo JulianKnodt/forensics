@@ -1,0 +1,19 @@
+{
+  "name": "forensics",
+  "version": "0.0.5",
+  "description": "Clean, simple analytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "analytics",
+    "proxy",
+    "diagnosis"
+  ],
+  "author": "Julian Knodt <julianknodt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "circular-json": "^0.3.1"
+  }
+}
